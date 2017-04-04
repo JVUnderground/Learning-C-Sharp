@@ -1,7 +1,7 @@
-# Learning-C-Sharp
+# Learning-C-Sharp [![Build Status](https://travis-ci.org/JVUnderground/Learning-C-Sharp.svg?branch=master)](https://travis-ci.org/JVUnderground/Learning-C-Sharp)
 Following Chapters 1-11 in the book, "Professional C# 2012 and .NET 4.5"
 
-* Chapter 1: .NET Architecture [![Build Status](https://travis-ci.org/JVUnderground/Learning-C-Sharp.svg?branch=master)](https://travis-ci.org/JVUnderground/Learning-C-Sharp)
+* Chapter 1: .NET Architecture
 * Chapter 2: Core C#
 * Chapter 3: Objects and Types
 * Chapter 4: Inheritance
